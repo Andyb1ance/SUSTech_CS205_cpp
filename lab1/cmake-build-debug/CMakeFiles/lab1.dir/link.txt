@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/lab1.dir/helloWorld.cpp.o CMakeFiles/lab1.dir/preprocessor.cpp.o  -o lab1.exe -Wl,--out-implib,liblab1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

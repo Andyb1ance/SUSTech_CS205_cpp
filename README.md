@@ -1,2 +1,2 @@
 # SUSTech_CS205_cpp
- SUTech c/cpp lesson, and my c/cpp learning
+ SUSTech c/cpp course, and also record my c/cpp learning

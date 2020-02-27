@@ -1,0 +1,5 @@
+/cygdrive/d/code/cpp/SUSTech_CS205_cpp/lab1/cmake-build-debug/CMakeFiles/function.dir
+/cygdrive/d/code/cpp/SUSTech_CS205_cpp/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/code/cpp/SUSTech_CS205_cpp/lab1/cmake-build-debug/CMakeFiles/helloWorld.dir
+/cygdrive/d/code/cpp/SUSTech_CS205_cpp/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/code/cpp/SUSTech_CS205_cpp/lab1/cmake-build-debug/CMakeFiles/preprocessor.dir

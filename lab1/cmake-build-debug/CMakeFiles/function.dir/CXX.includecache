@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/code/cpp/SUSTech_CS205_cpp/lab1/function.cpp
+iostream
+/cygdrive/d/code/cpp/SUSTech_CS205_cpp/lab1/iostream
+cmath
+/cygdrive/d/code/cpp/SUSTech_CS205_cpp/lab1/cmath
+

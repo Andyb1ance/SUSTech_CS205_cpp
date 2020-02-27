@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/preprocessor.dir/preprocessor.cpp.o  -o preprocessor.exe -Wl,--out-implib,libpreprocessor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/helloWorld.dir/helloWorld.cpp.o  -o helloWorld.exe -Wl,--out-implib,libhelloWorld.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
