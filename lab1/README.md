@@ -1,4 +1,4 @@
-# lab1
+# lecture 1
 
 ## Cpp preprocessor
 
