@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/code/cpp/SUSTech_CS205_cpp/lab5/exercise2.cpp
+iostream
+/cygdrive/d/code/cpp/SUSTech_CS205_cpp/lab5/iostream
+cstring
+/cygdrive/d/code/cpp/SUSTech_CS205_cpp/lab5/cstring
+
