@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/code/cpp/SUSTech_CS205_cpp/assignment2/main.cpp
+iostream
+-
+string
+-
+cmath
+-
+fstream
+-
+sstream
+-
+vector
+-
+
